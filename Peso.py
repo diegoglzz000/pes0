@@ -2,8 +2,8 @@ import numpy as np
 import streamlit as st
 import pandas as pd
 
-st.write(''' # Predicción del peso  ''')
-st.image("bascula.jpg", caption="Programa de predicción del peso de una persona.")
+st.write(''' Predicción del peso  ''')
+st.image("basculaa.png", caption="Programa de predicción del peso de una persona.")
 
 st.header('Datos personales')
 
